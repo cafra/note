@@ -1,2 +1,2 @@
-# note
-study notes
+# 学习笔记
+## 数据库原理
